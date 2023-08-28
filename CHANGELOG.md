@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/cashrent/analytics-plugin-posthog/compare/v1.0.0...v1.1.0) (2023-08-28)
+
+
+### Features
+
+* support reset feature ([#2](https://github.com/cashrent/analytics-plugin-posthog/issues/2)) ([0333678](https://github.com/cashrent/analytics-plugin-posthog/commit/03336788501b198b7a182f1e7f27e28e501490bf))
+
 ## 1.0.0 (2023-08-25)
 
 
